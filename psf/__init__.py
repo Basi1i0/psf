@@ -1,3 +1,3 @@
-from .main import compute, plotAvg, plotPSF
+from .main import *
 
 __version__ = '0.0.0'
